@@ -31,7 +31,7 @@ fan:
   - platform: rpi_fan_gpio_pwm
     fans:
       - name: RPI Cooling Fan
-        pin: 17
+        pin: 18
 ```
 
 ## CONFIGURATION VARIABLES
